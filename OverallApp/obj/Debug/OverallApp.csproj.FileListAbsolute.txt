@@ -1,0 +1,10 @@
+C:\Users\micha\source\repos\OverallApp\OverallApp\bin\Debug\OverallApp.exe.config
+C:\Users\micha\source\repos\OverallApp\OverallApp\bin\Debug\OverallApp.exe
+C:\Users\micha\source\repos\OverallApp\OverallApp\bin\Debug\OverallApp.pdb
+C:\Users\micha\source\repos\OverallApp\OverallApp\obj\Debug\OverallApp.csproj.AssemblyReference.cache
+C:\Users\micha\source\repos\OverallApp\OverallApp\obj\Debug\OverallApp.Properties.Resources.resources
+C:\Users\micha\source\repos\OverallApp\OverallApp\obj\Debug\OverallApp.csproj.GenerateResource.cache
+C:\Users\micha\source\repos\OverallApp\OverallApp\obj\Debug\OverallApp.csproj.CoreCompileInputs.cache
+C:\Users\micha\source\repos\OverallApp\OverallApp\obj\Debug\OverallApp.exe
+C:\Users\micha\source\repos\OverallApp\OverallApp\obj\Debug\OverallApp.pdb
+C:\Users\micha\source\repos\OverallApp\OverallApp\obj\Debug\OverallApp.Form1.resources
